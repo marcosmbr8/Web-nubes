@@ -1,0 +1,6 @@
+{
+  "name": "ONLYCLOUD - Red Social de Cielos y Astronomía",
+  "description": "Red social visual minimalista y elegante dedicada a la fotografía de nubes, cielos, atardeceres y astronomía.",
+  "requestFramePermissions": ["geolocation"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

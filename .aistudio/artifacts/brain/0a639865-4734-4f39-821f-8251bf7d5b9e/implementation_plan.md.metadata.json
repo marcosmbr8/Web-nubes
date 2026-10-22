@@ -1,0 +1,6 @@
+{
+  "summary": "Plan de implementación para la Base Interna Privada de OnlyCloud: pasarela de inicio de sesión administrativo con usuario y contraseña, panel de métricas en tiempo real (velocidad, almacenamiento, usuarios activos, latencia), tablas categorizadas con datos cifrados enmascarados y descifrado seguro en 1 clic, auditoría de seguridad y consola de consultas Firestore.",
+  "updatedAt": "2026-10-19T08:25:39.285023583Z",
+  "requestFeedback": true,
+  "userFacing": true
+}
